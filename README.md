@@ -1,1 +1,1 @@
-# dblasallista201601
+# Curso de bases de datos lasallista
